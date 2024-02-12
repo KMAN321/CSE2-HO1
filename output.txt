@@ -1,0 +1,2 @@
+This is a new line written to the file.
+Another line added with append method.
